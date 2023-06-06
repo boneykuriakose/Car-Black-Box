@@ -1,6 +1,8 @@
 # Car-Black-Box
 The black box is a device that is installed in a vehicle to record data such as speed, distance traveled, acceleration, and braking patterns. It also records video and audio from within the vehicle, which can be used in the event of an accident or other incident.
 Here I am designing a prototype of this black box using PIC18F4580.Which has three parts: 
+
+
 1)Dashboard: where time,gear and speed will be displayed
 time is fetched from RTC
 MKP1->Collision occurance,MKP2->increment gear,MKP3->decrement gear
